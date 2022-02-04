@@ -1,8 +1,8 @@
 # Klio Lambda SDK Developement Documentation
 ## Introduction
-The documents in this folder will help you get familiar with Luca Medical Systems state of the art QA system [Klio](Klio.md) and how to build a program in python to analyze your data using the forms present in [Klio](Klio.md).
+The documents in this folder will help you get familiar with Luca Medical Systems state of the art QA system [Klio](Klio.md) and how to build a program in python to analyze your data using Klio's forms.
 
-The programs that you can run on [Klio](Klio.md) are called [lambda functions](Lambda.md). Each lambda function is a small program that is executed by a Klio form and allows data to flow 
+The programs that you can run on Klio are called [lambda functions](Lambda.md). Each lambda function is a small program that is executed by a Klio form and allows data to flow 
 
 ## luca-klio-lambda-sdk
 
