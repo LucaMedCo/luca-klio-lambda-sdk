@@ -1,7 +1,8 @@
-# Example Package
+# Klio Lambda SDK Developement Documentation
+
 
 This is a simple example package. You can use
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+[SubmitLambda](SubmitLambda.md)
 to write your content.
 
 [package stuff](https://docs.python.org/3/tutorial/modules.html#packages)
