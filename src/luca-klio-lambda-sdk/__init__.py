@@ -1,1 +1,2 @@
-from eventhandler.eventhandler import AWSEventHandler
+import eventhandler
+import fileio
