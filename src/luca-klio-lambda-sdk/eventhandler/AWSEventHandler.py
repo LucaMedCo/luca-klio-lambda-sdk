@@ -1,4 +1,6 @@
-from fileio.upload_file import
+import datetime
+
+from fileio.upload_to_URL import upload_to_URL
 
 class AWSEventHandler:
     def __init__(self, request):
@@ -26,5 +28,5 @@ class AWSEventHandler:
         # Save data to user's folder.
         url = 'https://files.lucamedco.com/test/' + self.job + "-" + str(
             datetime.datetime.utcnow().strftime("%Y-%m-%d-%H-%M-%S")) + ".json"
-        uploadToURL(url, j)
+        upload_to_URL(url, j)
         return j
