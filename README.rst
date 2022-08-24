@@ -1,5 +1,5 @@
 luca-klio-lambda-sdk
----------------
+-------------------------
 The python package luca-klio-lambda-sdk is both a library and SDK for lambda functions used in conjunction with Klio a product of `Luca Medical Systems`_.
 
 .. _Luca Medical Systems: https://www.lucamedco.com
@@ -14,12 +14,12 @@ Klio's robust backend permits data mining to monitor and predict machine perform
 .. _Klio: https://www.lucamedco.com/klio.html
 
 Usage
-------------
+-----------------
 
 This library contains various built in functions to help you connect AWS lambda's to your Klio data and allow for indepth analysis.
 
 License
--------
+-----------------
 
 The luca-klio-lambda-sdk library and SDK are licensed under the MIT License.
 
