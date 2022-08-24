@@ -1,0 +1,5 @@
+cd D:\Programing Projects\luca-klio-lambda-sdk
+python -m build
+python -m twine check dist/*
+python -m twine upload --repository testpypi dist/*
+python -m twine upload dist/*
