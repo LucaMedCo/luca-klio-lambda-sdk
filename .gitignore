@@ -19,3 +19,6 @@ venv37/
 ENV/
 env.bak/
 venv.bak/
+
+#module stuff
+/src/luca_klio_lambda_sdk.egg-info
