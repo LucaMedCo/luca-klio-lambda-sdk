@@ -10,7 +10,7 @@ description = "Library and SDK for lambda functions used in conjunction with Kli
 requires-python = ">=3.7"
 keywords = ["Klio", "Luca", "LucaMedCo"]
 license = {text = "BSD 3-Clause License"}
-version = "0.0.0.1"
+version = "1.0.0.dev1"
 
 classifiers = [
     "Programming Language :: Python :: 3",
