@@ -1,41 +1,28 @@
-Python Packaging User Guide
-===========================
-
-http://packaging.python.org
-
-The "Python Packaging User Guide" (PyPUG) aims to be the authoritative resource on
-how to package and install distributions in Python using current tools.
-
-To follow the development of Python packaging, see the `Python
-Packaging Authority <https://www.pypa.io/en/latest/>`_.
-
-Code of Conduct
+luca-klio-lambda-sdk
 ---------------
+The python package luca-klio-lambda-sdk is both a library and SDK for lambda functions used in conjunction with Klio a product of `Luca Medical Systems`_.
 
-Everyone interacting in the Python Packaging User Guide project's codebases,
-issue trackers, chat rooms, and mailing lists are expected to follow the
-`PSF Code of Conduct`_.
+.. _Luca Medical Systems: https://www.lucamedco.com
 
-.. _PSF Code of Conduct: https://github.com/pypa/.github/blob/main/CODE_OF_CONDUCT.md
 
-Contributing
+`Klio`_
+---------------
+`Klio`_ employs a robust, secure, cloud-based platform for managing QA data. QA data can be accessed from any computer with internet access and a valid account. Say goodbye to local server installations, operating system restrictions, and hassles with software upgrades.
+
+Klio's robust backend permits data mining to monitor and predict machine performance. Both data and procedures are tracked for usage, leading to clinical standardization.
+
+.. _Klio: https://www.lucamedco.com/klio.html
+
+Usage
 ------------
 
-This guide is community-maintained and contributions are welcome! Please see the
-`contributing guide`_ for details on our writing style guide and how to build
-the guide locally to test your changes.
-
-.. _contributing guide: https://packaging.python.org/contribute
+This library contains various built in functions to help you connect AWS lambda's to your Klio data and allow for indepth analysis.
 
 License
 -------
 
-The Python Packaging User Guide is licensed under a Creative Commons
-Attribution-ShareAlike license: http://creativecommons.org/licenses/by-sa/3.0 .
+The luca-klio-lambda-sdk library and SDK are licensed under the MIT License.
 
-History
--------
+This license granting you permission to use, share and modify the software at no additional cost and comes with no restrictions on commercial use except the work must be attributed. See the license or read this faq for more information.
 
-This Guide was forked from the “Hitchhiker's Guide to Packaging” in March 2013,
-which was maintained by Tarek Ziadé. Thank you Tarek for all your efforts in
-Python packaging.
+FAQ: https://www.tawesoft.co.uk/kb/article/mit-license-faq
